@@ -1,0 +1,27 @@
+{
+    "nama": "Budi Martami",
+    "nim": "123456789",
+    "jurusan": "Sistem Informasi",
+    "semester": 4,
+    "mata_kuliah": [
+      {
+        "kode": "SI101",
+        "matkul": "Pemrograman Mobile",
+        "sks": 3,
+        "nilai": "A"
+      },
+      {
+        "kode": "SI201",
+        "matkul": "Pemrograman Web",
+        "sks": 3,
+        "nilai": "B+"
+      },
+      {
+        "kode": "SI301",
+        "matkul": "MPSI",
+        "sks": 3,
+        "nilai": "A-"
+      }
+    ]
+  }
+  

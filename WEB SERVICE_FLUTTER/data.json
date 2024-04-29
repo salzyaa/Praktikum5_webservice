@@ -1,0 +1,18 @@
+{
+    "nama": "Budi Martami",
+    "alamat": "Ujung Berung",
+    "hobi": [
+        "membaca",
+        "berlari"
+    ],
+    "anak": [
+        {
+            "nama": "Ahmad Aulia",
+            "tgl_lahir": "01-01-2010"
+        },
+        {
+            "nama": "Sandra Permana",
+            "tgl_lahir": "04-07-2014"
+        }
+    ]
+}
